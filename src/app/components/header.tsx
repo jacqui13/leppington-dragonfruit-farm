@@ -1,5 +1,5 @@
 "use client"
-import Image from 'next/image';
+import { Image } from 'react-bootstrap';
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
@@ -8,7 +8,7 @@ function Header() {
     return (
         <Navbar bg="light" data-bs-theme="light" style={{ position: "sticky", zIndex: 1 }}>
             <Container>
-                <Image src="./dragon_fruit.png" style={{ width: '40px' }} alt="dragonfruit emoji" />
+                <Image src="./dragon_fruit.png" style={{ width: '40px' }} rounded />
                 <Navbar.Brand href="/home">
                     Leppington Dragonfruit Farm
                 </Navbar.Brand>
