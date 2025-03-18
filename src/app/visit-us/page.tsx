@@ -3,7 +3,7 @@ import { Card, Container } from "react-bootstrap";
 
 export default function VisitUs() {
     return (
-        <Container style={{ height: "90vh", width: "60vw", alignContent: "center" }}>
+        <Container style={{ height: "90vh", width: "70vw", alignContent: "center" }}>
             <h1>Visit Us</h1>
             <Card>
                 <Card.Body>📍 We are located at 115 Dickson Road, Leppington NSW 2179.</Card.Body>
