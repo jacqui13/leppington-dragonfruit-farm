@@ -6,7 +6,7 @@ import Navbar from 'react-bootstrap/Navbar';
 
 function Header() {
     return (
-        <Navbar bg="light" data-bs-theme="light">
+        <Navbar bg="light" data-bs-theme="light" style={{ position: "sticky", zIndex: 1 }}>
             <Container>
                 <Image src="./dragon_fruit.png" style={{ width: '40px' }} rounded />
                 <Navbar.Brand href="/home">
