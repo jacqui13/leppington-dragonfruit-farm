@@ -3,7 +3,7 @@ import { Accordion, Container } from "react-bootstrap";
 
 export default function Contact() {
     return (
-        <Container>
+        <Container style={{ width: "70vw", height: "90vh", alignContent: "center" }}>
             <h1 style={{ marginBottom: "30px" }}>Contact</h1>
             <Container style={{ padding: "0" }}>
                 <h3>FAQ</h3>

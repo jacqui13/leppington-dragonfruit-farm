@@ -14,13 +14,13 @@ export default function Gallery() {
                 <Image src="./IMG_9185.jpg" style={{ height: "100%", width: "100%" }} />
             </Carousel.Item>
             <Carousel.Item>
-                <Image src="./IMG_9191.jpg" style={{ height: "100%", width: "100%" }} />
+                <Image src="./IMG_9191.JPG" style={{ height: "100%", width: "100%" }} />
             </Carousel.Item>
             <Carousel.Item>
-                <Image src="./IMG_9229.jpg" style={{ height: "100%", width: "100%", position: "relative", top: "-350px" }} />
+                <Image src="./IMG_9229.JPG" style={{ height: "100%", width: "100%", position: "relative", top: "-350px" }} />
             </Carousel.Item>
             <Carousel.Item>
-                <Image src="./IMG_9237.png" style={{ height: "100%", width: "100%", position: "relative", top: "-300px" }} />
+                <Image src="./IMG_9237.PNG" style={{ height: "100%", width: "100%", position: "relative", top: "-300px" }} />
             </Carousel.Item>
             <Carousel.Item>
                 <Image src="./IMG_9324.jpg" style={{ height: "100%", width: "100%" }} />
@@ -29,7 +29,7 @@ export default function Gallery() {
                 <Image src="./IMG_9348.jpg" style={{ height: "100%", width: "100%" }} />
             </Carousel.Item>
             <Carousel.Item>
-                <Image src="./IMG_9364.jpg" style={{ height: "100%", width: "100%" }} />
+                <Image src="./IMG_9364.JPG" style={{ height: "100%", width: "100%" }} />
             </Carousel.Item>
             <Carousel.Item>
                 <Image src="./IMG_9517.jpg" style={{ height: "100%", width: "100%" }} />
