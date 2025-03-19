@@ -1,10 +1,15 @@
 "use client"
-import { Accordion, Container } from "react-bootstrap";
+import { Accordion, Card, Container } from "react-bootstrap";
 
 export default function Contact() {
     return (
-        <Container style={{ width: "70vw", height: "90vh", alignContent: "center" }}>
-            <h1 style={{ marginBottom: "30px" }}>Contact</h1>
+        <Container style={{ width: "70vw", height: "90vh", marginTop: "30px" }}>
+            <h1>Contact</h1>
+            <Card style={{ marginBottom: "20px" }}>
+                <Card.Body>
+                    Please check our website for the information you are after before contacting us. For bookings over 20 people, or if required, please <b>message</b> 0432198893 for any further questions.
+                </Card.Body>
+            </Card>
             <Container style={{ padding: "0" }}>
                 <h3>FAQ</h3>
                 <Accordion defaultActiveKey="0">
@@ -29,7 +34,7 @@ export default function Contact() {
                     <Accordion.Item eventKey="3">
                         <Accordion.Header>What other produce do you sell?</Accordion.Header>
                         <Accordion.Body>
-                            In addition to fresh dragonfruits, we sell fresh peanuts, wintermelons, dragonfruit plants, and more seasonal vegetables.
+                            In addition to fresh dragonfruits, we sell fresh peanuts, wintermelons, dragonfruit plants, and more seasonal vegetables. Fresh peanuts are only available in March and April.
                         </Accordion.Body>
                     </Accordion.Item>
                     <Accordion.Item eventKey="4">
@@ -39,9 +44,15 @@ export default function Contact() {
                         </Accordion.Body>
                     </Accordion.Item>
                     <Accordion.Item eventKey="5">
-                        <Accordion.Header>How much does it cost to pick dragonfruits</Accordion.Header>
+                        <Accordion.Header>How much does it cost to pick dragonfruits?</Accordion.Header>
                         <Accordion.Body>
                             For picking, dragonfruits cost $9 per kg. We also sell already-picked dragonfruits for $5-9 per kg, sorted by size.
+                        </Accordion.Body>
+                    </Accordion.Item>
+                    <Accordion.Item eventKey="6">
+                        <Accordion.Header>Is there free parking onsite?</Accordion.Header>
+                        <Accordion.Body>
+                            Yes, there is free street parking just outside.
                         </Accordion.Body>
                     </Accordion.Item>
                 </Accordion>
