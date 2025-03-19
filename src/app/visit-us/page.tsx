@@ -21,7 +21,7 @@ export default function VisitUs() {
                     <Card.Body>📍 We are located at 115 Dickson Road, Leppington NSW 2179, about 1.5 hr drive from Sydney, and roughly a 20 minute walk from Leppington Train Station</Card.Body>
                     <Card.Body>🕒 We are open 9am - 5pm every day, unless stated otherwise on <Link href="/updates">Harvest Updates</Link> page.</Card.Body>
                     <Card.Body>📅 Dragonfruit season for our farm typically occurs early February to end of April and is open to the public from February to April every year for dragonfruit picking.</Card.Body>
-
+                    <Card.Body>🧑‍🌾 We sell white dragonfruits only (no pink).</Card.Body>
                 </Card>
             </Container>
             <Container style={{ padding: "0", marginTop: "30px" }}>
