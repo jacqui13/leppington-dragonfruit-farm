@@ -12,6 +12,9 @@ export default function Updates() {
                         Our second round of dragonfruit harvest will be available <strong>around April 10th</strong>. 🍃✨
                     </p>
                     <p>
+                        We also have peanuts and wintermelons in our shop, available now.
+                    </p>
+                    <p>
                         Stay tuned for more updates, and feel free to check back here for the latest availability.
                     </p>
 
