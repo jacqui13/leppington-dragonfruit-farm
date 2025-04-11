@@ -9,7 +9,7 @@ export default function Updates() {
                 <Card.Body>
                     <p><strong>Great news, dragonfruit lovers! 🎉</strong></p>
                     <p>
-                        Our second round of dragonfruit harvest will be available <strong>around April 10th</strong>. 🍃✨
+                        Our second round of dragonfruit harvest will be available <strong>at the end of April.</strong>. 🍃✨
                     </p>
                     <p>
                         We also have peanuts and wintermelons in our shop, available now.
@@ -19,7 +19,7 @@ export default function Updates() {
                     </p>
 
                     <Card className="p-3 bg-light">
-                        <p><strong>📅 Current Status:</strong> <Badge bg="danger">Out of Stock</Badge> (Next harvest: <strong>Approx. April 10th</strong>)</p>
+                        <p><strong>📅 Current Status:</strong> <Badge bg="danger">Out of Stock</Badge> (Next harvest: <strong>Approx. April 20th</strong>)</p>
                         <p><strong>🚜 Farm Hours: </strong>9am-5pm everyday</p>
                     </Card>
 
