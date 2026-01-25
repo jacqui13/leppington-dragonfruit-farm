@@ -46,13 +46,13 @@ export default function Contact() {
                     <Accordion.Item eventKey="5">
                         <Accordion.Header>How much does it cost to pick dragonfruits?</Accordion.Header>
                         <Accordion.Body>
-                            For picking, dragonfruits cost $9 per kg. We also sell already-picked dragonfruits for $5-9 per kg, sorted by size.
+                            For picking, dragonfruits cost $10 per kg. We also sell already-picked dragonfruits for $5-9 per kg, sorted by size.
                         </Accordion.Body>
                     </Accordion.Item>
                     <Accordion.Item eventKey="6">
                         <Accordion.Header>Is there free parking onsite?</Accordion.Header>
                         <Accordion.Body>
-                            Yes, there is free street parking just outside.
+                            Yes, there is plenty of free street parking just outside.
                         </Accordion.Body>
                     </Accordion.Item>
                 </Accordion>

@@ -7,12 +7,8 @@ export default function Updates() {
             <h1>🌱 Harvest Updates</h1>
             <Card>
                 <Card.Body>
-                    {/* <p><strong>Great news, dragonfruit lovers! 🎉</strong></p>
                     <p>
-                        Our second round of dragonfruit harvest are available <strong>now.</strong>. It will be available until sold out (estimated to be sold out beginning of May). 🍃✨
-                    </p> */}
-                    <p>
-                        Our dragonfruit harvest is currently out of stock. Most dragonfruit trees are green/unripe, so very few dragonfruits will be ready for picking.
+                        Our dragonfruit harvest is still growing. Most dragonfruit trees are green/unripe, so very few dragonfruits will be ready for picking.
                     </p>
                     <p>
                         We also have pumpkin, wintermelons and pomelo in our shop, available now. Please <strong>text message</strong> 0432198893 for any further questions.
@@ -22,8 +18,8 @@ export default function Updates() {
                     </p>
 
                     <Card className="p-3 bg-light">
-                        <p><strong>📅 Current Status:</strong> <Badge bg="danger">Dragonfruits out of stock (mostly unripe).</Badge></p>
-                        <p><strong>🚜 Farm Hours: </strong>9am-5pm Weekends only</p>
+                        <p><strong>📅 Current Status:</strong> <Badge bg="danger" style={{ textWrap: 'wrap' }}>Dragonfruits out of stock (mostly unripe). They will be available in early February.</Badge></p>
+                        <p><strong>🚜 Farm Hours: </strong>9am-5pm Daily</p>
                     </Card>
 
                     <p className="mt-3">Thank you for your support! 🌸</p>

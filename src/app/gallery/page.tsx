@@ -18,9 +18,6 @@ export default function Gallery() {
                 <Image src="/IMG_9191.JPG" height={1000} width={1000} style={{ height: "100%", width: "100%" }} alt="dragonfruits" />
             </Carousel.Item>
             <Carousel.Item>
-                <Image src="/IMG_9229.JPG" height={1000} width={1000} style={{ height: "100%", width: "100%" }} alt="dragonfruits" />
-            </Carousel.Item>
-            <Carousel.Item>
                 <Image src="/IMG_9237.PNG" height={1000} width={1000} style={{ height: "100%", width: "100%" }} alt="dragonfruits" />
             </Carousel.Item>
             <Carousel.Item>
