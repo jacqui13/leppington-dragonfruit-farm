@@ -7,7 +7,7 @@ export default function Contact() {
             <h1>Contact</h1>
             <Card style={{ marginBottom: "20px" }}>
                 <Card.Body>
-                    Please check our website for the information you are after before contacting us. For bookings over 20 people, or if required, please <b>message</b> 0432198893 for any further questions.
+                    Please check our website for the information you are after before contacting us. For bookings over 30 people, or if required, please <b>message</b> 0432198893 for any further questions.
                 </Card.Body>
             </Card>
             <Container style={{ padding: "0" }}>
@@ -46,7 +46,7 @@ export default function Contact() {
                     <Accordion.Item eventKey="5">
                         <Accordion.Header>How much does it cost to pick dragonfruits?</Accordion.Header>
                         <Accordion.Body>
-                            For picking, dragonfruits cost $10 per kg. We also sell already-picked dragonfruits for $5-9 per kg, sorted by size.
+                            For picking, dragonfruits cost $12 per kg. We also sell already-picked dragonfruits for cheaper, sorted by size.
                         </Accordion.Body>
                     </Accordion.Item>
                     <Accordion.Item eventKey="6">
