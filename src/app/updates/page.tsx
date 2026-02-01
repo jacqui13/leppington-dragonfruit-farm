@@ -18,7 +18,7 @@ export default function Updates() {
                     </p>
 
                     <Card className="p-3 bg-light">
-                        <p><strong>📅 Current Status:</strong> <Badge bg="danger" style={{ textWrap: 'wrap' }}>Dragonfruits now in stock (some still unripe). More will be available in early February.</Badge></p>
+                        <p><strong>📅 Current Status:</strong> <Badge bg="danger" style={{ textWrap: 'wrap' }}>Dragonfruits are out of stock (very limited). More will be available in February/March.</Badge></p>
                         <p><strong>🚜 Farm Hours: </strong>9am-5pm Daily</p>
                     </Card>
 
