@@ -46,7 +46,7 @@ export default function Contact() {
                     <Accordion.Item eventKey="5">
                         <Accordion.Header>How much does it cost to pick dragonfruits?</Accordion.Header>
                         <Accordion.Body>
-                            For picking, dragonfruits cost $12 per kg. We also sell already-picked dragonfruits for cheaper, sorted by size.
+                            For picking, dragonfruits cost $9 per kg. For a limited time, $8/kg is available to groups of over 20. We also sell already-picked dragonfruits for cheaper, sorted by size.
                         </Accordion.Body>
                     </Accordion.Item>
                     <Accordion.Item eventKey="6">

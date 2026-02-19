@@ -18,7 +18,7 @@ function Header() {
                         <Nav.Link href="/home">Home</Nav.Link>
                         <Nav.Link href="/visit-us">Visit Us</Nav.Link>
                         <Nav.Link href="/updates">Harvest Updates</Nav.Link>
-                        <Nav.Link href="/gallery">Photo Gallery</Nav.Link>
+                        <Nav.Link href="/gallery">Gallery</Nav.Link>
                         <Nav.Link href="/contact">Contact</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
