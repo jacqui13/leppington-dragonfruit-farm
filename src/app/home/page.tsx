@@ -4,8 +4,8 @@ import { Card, Container } from "react-bootstrap";
 
 export default function Home() {
     return (
-        <Container style={{ margin: "0", padding: "0", width: "100%" }}>
-            <Card style={{ backgroundColor: "#ffefc1", marginBottom: "20px", textAlign: "center", minWidth: "100%" }}>
+        <Container style={{ margin: "0", padding: "0", minWidth: "100%" }}>
+            <Card style={{ backgroundColor: "#ffefc1", marginBottom: "20px", textAlign: "center", width: "100%" }}>
                 <Card.Body>
                     🎉 Special Sale: Dragonfruits for $7/kg from Feb 24 - 27! Don't miss out! 🎉
                 </Card.Body>
