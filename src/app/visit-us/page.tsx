@@ -36,6 +36,7 @@ export default function VisitUs() {
                     <Card.Body>◾ For groups over 30 people, please message 0432198893 with your name, number of people, and your preferred date and time.</Card.Body>
                     <Card.Body>◾ If you are travelling via public transport, remember to bring something suitable to carry/wheel your produce as it may be heavy.</Card.Body>
                 </Card>
+                <Image src="/febsale.JPG" height={500} width={500} style={{ height: "50%", width: "50%" }} alt="dragonfruits" />
                 <Image src="/image6.JPG" height={500} width={500} style={{ height: "50%", width: "50%" }} alt="dragonfruits" />
                 <Image src="/image1.JPG" height={500} width={500} style={{ height: "50%", width: "50%" }} alt="dragonfruits" />
                 <Image src="/image2.JPG" height={500} width={500} style={{ height: "50%", width: "50%" }} alt="dragonfruits" />
