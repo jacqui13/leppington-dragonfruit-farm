@@ -7,7 +7,7 @@ export default function Home() {
         <Container style={{ margin: "0", padding: "0", minWidth: "100%" }}>
             <Card style={{ backgroundColor: "#ffefc1", marginBottom: "20px", textAlign: "center", width: "100%" }}>
                 <Card.Body>
-                    🎉 Special Sale: Dragonfruits for $7/kg from Feb 24 - 27! Don't miss out! 🎉
+                    🎉 Special Sale: Dragonfruits for $9/kg for the rest of March! $10/kg in April! Don't miss out! 🎉
                 </Card.Body>
             </Card>
             <h1 style={{ justifySelf: "anchor-center", alignSelf: "anchor-center", background: "pink", position: "absolute", textAlign: "center" }}>
