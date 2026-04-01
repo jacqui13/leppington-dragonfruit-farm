@@ -36,6 +36,11 @@ export default function VisitUs() {
                     <Card.Body>◾ For groups over 30 people, please message 0432198893 with your name, number of people, and your preferred date and time.</Card.Body>
                     <Card.Body>◾ If you are travelling via public transport, remember to bring something suitable to carry/wheel your produce as it may be heavy.</Card.Body>
                 </Card>
+                <video controls style={{ height: "100%", width: "100%" }}>
+                    <source src="/751.MP4" type="video/mp4" />
+                    Your browser does not support the video tag.
+                </video>
+                <Image src="/750.JPG" height={500} width={500} style={{ height: "50%", width: "50%" }} alt="dragonfruits" />
                 <Image src="/febsale.JPG" height={500} width={500} style={{ height: "50%", width: "50%" }} alt="dragonfruits" />
                 <Image src="/image6.JPG" height={500} width={500} style={{ height: "50%", width: "50%" }} alt="dragonfruits" />
                 <Image src="/image1.JPG" height={500} width={500} style={{ height: "50%", width: "50%" }} alt="dragonfruits" />
