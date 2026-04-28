@@ -10,7 +10,7 @@ export default function Home() {
                     🎉 Closed 29 Apr & 8 May. Enjoy $8/kg dragonfruits sale now! 🎉
                 </Card.Body>
             </Card>
-            <h1 style={{ alignSelf: "anchor-center", background: "pink", position: "absolute", textAlign: "center" }}>
+            <h1 style={{ alignSelf: "anchor-center", background: "pink", position: "absolute", textAlign: "center", width: "100%" }}>
                 Welcome to Organic Dragonfruit Farm
                 <br />
                 Leppington
