@@ -7,7 +7,7 @@ export default function Home() {
         <Container style={{ margin: "0", padding: "0", minWidth: "100%" }}>
             <Card style={{ backgroundColor: "#ffefc1", marginBottom: "20px", textAlign: "center", width: "100%" }}>
                 <Card.Body>
-                    🎉 Special Sale: Dragonfruits for $10/kg in April! Organic honey for $40/500g! 🎉
+                    🎉 Closed 29 Apr & 8 May. Enjoy $8/kg dragonfruits sale now! 🎉
                 </Card.Body>
             </Card>
             <h1 style={{ justifySelf: "anchor-center", alignSelf: "anchor-center", background: "pink", position: "absolute", textAlign: "center" }}>
