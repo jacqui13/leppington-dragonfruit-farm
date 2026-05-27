@@ -7,7 +7,7 @@ export default function Home() {
         <Container style={{ margin: "0", padding: "0", minWidth: "100%" }}>
             <Card style={{ backgroundColor: "#ffefc1", marginBottom: "20px", textAlign: "center", width: "100%" }}>
                 <Card.Body>
-                    🎉 Closed 29 Apr & 8 May. Enjoy $8/kg dragonfruits sale now! 🎉
+                    🎉 Dragonfruit season almost over! We are open to public 10am - 1pm Sundays only 🎉
                 </Card.Body>
             </Card>
             <h1 style={{ alignSelf: "anchor-center", background: "pink", position: "absolute", textAlign: "center", width: "100%" }}>
